@@ -1,5 +1,4 @@
 canvas {
-    border: 1px solid black;
     display: inline-block;
     vertical-align: top;
 }
@@ -12,3 +11,11 @@ pre {
     height: 500px;
     background-color: #F5F5F5;
 }
+.canvas1 {
+    text-align:center
+}
+
+.logo{
+    text-align:center
+}
+
